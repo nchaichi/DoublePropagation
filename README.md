@@ -1,2 +1,2 @@
-# Regression
-This focus of this repository is to provide script and example for various regression analysis in R and Python.
+# Double Propagation
+Thisrepository provides the script to implement double propagation in r. Double propagation is a rule-based technique used for to aspect and opinion extraction.
